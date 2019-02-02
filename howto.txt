@@ -4,7 +4,7 @@ Beautiful soup 4 Library for python 3.7
 slugify library for python for python 3.7
 nltk natural language processing toolkit for python 3.7
 
-The program has been adapted from the repository 
+The program has been adapted from the repository 'https://github.com/philipperemy/cocktails'
 
 You will find the required datasets in the folder 'data'
 Incase you want to extract the data again and start from scrtach, run the file 1_rate_binary_dataset.py
