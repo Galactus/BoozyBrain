@@ -1,0 +1,20 @@
+Software requirements needed to implement the code
+Python 3.7
+Beautiful soup 4 Library for python 3.7
+slugify library for python for python 3.7
+nltk natural language processing toolkit for python 3.7
+
+The program has been adapted from the repository 
+
+You will find the required datasets in the folder 'data'
+Incase you want to extract the data again and start from scrtach, run the file 1_rate_binary_dataset.py
+The required functions are coded in file utils.py . 
+Note: you could run into problems generating the dataset from scratch as the website is in french and it is likely that the code has to be
+altered sometimes to account for some french characters if they haven't be accounted for.
+
+
+For running the prototype: 
+1. Plugin the arduino to the computer and upload the code LED_
+2. Note the COM port number and change it in the itertools_test.py file
+3. Enter the ingredients in the variable array ingredients in itertools_test.py
+4. Run the file itertools_test.py
